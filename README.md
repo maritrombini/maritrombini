@@ -1,4 +1,15 @@
-### Welcome to my Github <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40" height="40" />
+### Olá, bem vindx ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40" height="40" />
+
+<p align="left">
+  💌 Encontre-me: 
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
 <!--
 **maritrombini/maritrombini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
