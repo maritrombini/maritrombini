@@ -1,8 +1,11 @@
 ### Olá, bem vindx ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40" height="40" />
 
 
+
+
+
 <p align="left">
-  💌 Contato: 
+  💌 marianagsena@gmail.com 
 </p>
 
 <p align="left">
