@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mail.google.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mail.google.com" /></a>
 
   <a href="https://www.linkedin.com/in/mariana--trombini/" alt="Linkedin">
