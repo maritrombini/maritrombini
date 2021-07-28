@@ -1,7 +1,7 @@
 ## Olá, bem vindx ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40" height="40" />
 <br>
 
-#### Meu chamo Mariana Trombini e sou estudante de Tecnologia. 
+#### Me chamo Mariana Trombini e sou estudante de Tecnologia. 
 <img src="bitdev.jpeg" min-width="10px" max-width="10px" width="250px" align="right" alt="Avatar Mariana">
 <p> Vamos compartilhar conhecimentos? 😊 </p>
 
