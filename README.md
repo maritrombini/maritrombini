@@ -32,9 +32,6 @@
   💌 marianagsena@gmail.com 
 </p>
 
-<p align="left">
-  <a href="https://accounts.google.com/" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mail.google.com" /></a>
 
   <a href="https://www.linkedin.com/in/mariana--trombini/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana--trombini/" /></a>
