@@ -1,7 +1,6 @@
-## Olá, bem vindx ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40" height="40" />
+## Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40" height="40" />
 <br>
 
-#### Apaixonada por Tecnologia. ####
 <img src="bitdev.jpeg" min-width="10px" max-width="10px" width="250px" align="right" alt="Avatar Mariana">
 <p> Vamos compartilhar conhecimentos? 😊 </p>
 
