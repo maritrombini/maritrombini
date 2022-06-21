@@ -1,30 +1,12 @@
-## Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40" height="40" />
-<br>
+##  
 
-<img src="bitdev.jpeg" min-width="10px" max-width="10px" width="250px" align="right" alt="Avatar Mariana">
-<p> Vamos compartilhar conhecimentos? 😊 </p>
-
-<br>
+<p> Desenvolvedora  </p>
+<p> Apaixonada por Tecnologia e pela possibilidade de transformar o futuro através da programação.  </p>
 <ul>
-<li>
-<p>Desenvolvedora</p>
-</li>
-
-  <li>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="20" height="20" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" style="max-width:100%;"></a>
-  ...</p>
-</li>
-  <li>
-    <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Em transição de carreira</g-emoji>
-  </li><br>
    <li>
     Nas horas vagas  🎻 🎹 📖
   </li>
 </ul>
-<br>
-
 <p align="left">
   💌 marianagsena@gmail.com 
 </p>
