@@ -1,4 +1,4 @@
-##  
+##  Mariana Trombini
 
 <p> Desenvolvedora  </p>
 <p> Apaixonada por Tecnologia e pela possibilidade de transformar o futuro através da programação.  </p>
