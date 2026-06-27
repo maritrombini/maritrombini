@@ -5,7 +5,6 @@ Mariana Trombini
 
 Full Stack Software Engineer
 
-Building scalable software.
-Exploring AI-Driven Development.
-Learning every day.
+Designing and building systems that are reliable and built to scale.
+AI-amplified engineering workflows, from planning to production.
 ```
